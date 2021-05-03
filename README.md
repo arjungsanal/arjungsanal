@@ -4,7 +4,7 @@
 
 - 📚  A Web Developer With No Degree, I have strong foundation for Fundamental Web Development Technologies and is a constant learner. I am currently engaged in exploring different new aspects of Web Development and creates clones of popular websites and productive web apps which are molded within my mind.
 
-- 💪🏽 My Key Skills are : Networking, Adapts Quickly to any Environment Social Media Strategy, Advertising, Web Designing.
+- 💪🏽 My Key Skills are : Web Development, Web Designing, Social Media Advertising, Networking.
 
 <p align='center'>
 - <a href="https://www.linkedin.com/in/arjun-gs-3967581b9/">
