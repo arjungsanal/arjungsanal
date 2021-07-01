@@ -1,6 +1,6 @@
 - 👋🏽 Hi, My name is Arjun GS
 
-- 🌇 Full Stack Web Developer- React Developer | Wordpress Developer.
+- 🌇 Front End Web Developer
 
 - 📚  A Web Developer With No Degree, I have strong foundation for Fundamental Web Development Technologies and is a constant learner. I am currently engaged in exploring different new aspects of Web Development and creates clones of popular websites and productive web apps which are molded within my mind.
 
