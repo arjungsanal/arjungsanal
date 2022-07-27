@@ -1,10 +1,18 @@
-- 👋🏽 Hi, My name is Arjun GS
+👋🏽 Hi, My name is Arjun GS
 
-- 🌇 Front End Web Developer
+🎓 Studied at Chinmaya Vidyalaya Attukal in BIoMathematics Stream (March 2020).
 
-- 📚  A Web Developer With No Degree, I have strong foundation for Fundamental Web Development Technologies and is a constant learner. I am currently engaged in exploring different new aspects of Web Development and creates clones of popular websites and productive web apps which are molded within my mind.
+Currently studying at University Engineering College Karyavattom in BTech CSE. (2021-2025) 
 
-- 💪🏽 My Key Skills are : Web Development, Web Designing, Social Media Advertising, Networking.
+🌇 Kerala Native, with a passion for creating new and productive Applications and Websites (React | Wordpress).
+
+📚 A Web Developer who is pursuing a Degree, I have strong foundation for Fundamental Web Development Technologies and is a constant learner. I am currently engaged in exploring different new aspects of Web Development and creates clones of popular websites and productive web apps which are molded within my mind.
+
+💻 As for my future, I hope to work one day as a Senior Developer with a diverse team to demonstrate the real potential of Web Development. I hope to experience wide variety of lifetime problems and intent to solve them with my knowledge and experience.
+
+🏔 In my free time I prefer to read tech blogs and go through tech news and videos, as I truly believe in this constantly evolving world of technology, staying updated is very much important.
+
+💪🏽 My Key Skills are : Networking, Adapts Quickly to any Environment Social Media Strategy, Advertising, Web Designing.
 
 <p align='center'>
 - <a href="https://www.linkedin.com/in/arjun-gs-3967581b9/">
