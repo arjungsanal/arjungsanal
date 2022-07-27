@@ -1,11 +1,5 @@
 👋🏽 Hi, My name is Arjun GS
 
-🎓 Studied at Chinmaya Vidyalaya Attukal in BIoMathematics Stream (March 2020).
-
-Currently studying at University Engineering College Karyavattom in BTech CSE. (2021-2025) 
-
-🌇 Kerala Native, with a passion for creating new and productive Applications and Websites (React | Wordpress).
-
 📚 A Web Developer who is pursuing a Degree, I have strong foundation for Fundamental Web Development Technologies and is a constant learner. I am currently engaged in exploring different new aspects of Web Development and creates clones of popular websites and productive web apps which are molded within my mind.
 
 💻 As for my future, I hope to work one day as a Senior Developer with a diverse team to demonstrate the real potential of Web Development. I hope to experience wide variety of lifetime problems and intent to solve them with my knowledge and experience.
