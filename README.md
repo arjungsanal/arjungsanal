@@ -10,7 +10,6 @@ I explore modern tools and frameworks, primarily in frontend and full-stack deve
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arjungsanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjungsanal" height="30" width="40" /></a>
-<a href="https://instagram.com/arjungsanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjungsanal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arjungsanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjungsanal" height="30" width="40" /></a>
 </p>
 <div align="left">
