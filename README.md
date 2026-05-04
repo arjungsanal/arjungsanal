@@ -1,46 +1,68 @@
-<h1 align="center">Hi 👋, I'm Arjun GS</h1>
-<h3 align="center">A passionate software engineer from India</h3>
-
-
-I'm a Software Engineer with a strong foundation in core web development technologies, and a deep passion for creating impactful digital experiences. Having completed my degree, I now focus on building projects that spark my curiosity—from solving everyday problems to experimenting with emerging tech.
-
-I explore modern tools and frameworks, primarily in frontend and full-stack development, and enjoy crafting user-focused applications that are both functional and thoughtful. Whether it's a blockchain-based crowdfunding platform or an AI-powered document chatbot, I’m driven by the excitement of turning ideas into reality and constantly evolving as a developer.
-
-📫 How to reach me **arjungsanal@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arjungsanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjungsanal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arjungsanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arjungsanal" height="30" width="40" /></a>
-</p>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjungsanal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=120&section=header&text=Arjun%20GS&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
-###
+<br/>
 
-### 💻 About My Future
-I aspire to grow into a Senior Software Engineer, working alongside a diverse and collaborative team to unlock the true potential of modern web development. My goal is to tackle real-world challenges, constantly evolving through hands-on experience, creativity, and problem-solving.
+<div align="center">
+  <code>Software Engineer · Builder</code>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>Architecture · Execution · Ownership</code>
+</div>
 
-### 🏔 What I Do in My Free Time
-When I’m not coding, I enjoy reading tech blogs, watching industry updates, and diving into new trends. In a fast-paced world like tech, I believe staying updated is essential to keep growing and innovating.
+<br/>
 
-### 💪🏽 Key Strengths
-🌐 Networking & Collaboration
+I build systems that work in the real world — transaction-critical, high-traffic, offline-first. Not demos. Not prototypes that fall apart at scale.
 
-⚡ Quick Adaptation to New Environments
+Currently designing and shipping crypto infrastructure at **Wemine** — covering mining operations, miner monitoring, hardware sales, and infrastructure provisioning.
 
-📣 Social Media & Community Engagement Strategy
+Building side projects and tools at **[buildfox.space](https://buildfox.space)**.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arjungsanal/arjungsanal/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arjungsanal/arjungsanal/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arjungsanal/arjungsanal/output/pacman-contribution-graph.svg">
-</picture>
+<br/>
 
-###
+---
 
+### Currently
 
-<!---
-arjungsanal/arjungsanal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| | |
+|---|---|
+| **Day job** | Software Engineer at Wemine — crypto infrastructure platform |
+| **Building** | [buildfox.space](https://buildfox.space) — side projects, experiments, tools |
+| **Location** | Thiruvananthapuram, Kerala, India |
+
+---
+
+### How I work
+
+```
+Architecture first   →   Design the system before writing the first line
+Ship early           →   Live feedback beats internal debate every time  
+Own it end to end    →   From schema design to deployment
+```
+
+---
+
+### Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=f59e0b)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=f59e0b)
+![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=f59e0b)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=f59e0b)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=f59e0b)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=f59e0b)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a1a1a?style=flat-square&logo=rabbitmq&logoColor=f59e0b)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-1a1a1a?style=flat-square&logo=gitlab&logoColor=f59e0b)
+
+---
+
+### Get in touch
+
+[![Email](https://img.shields.io/badge/arjungsanal@gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=f59e0b)](mailto:arjungsanal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=f59e0b)](https://linkedin.com/in/arjungsanal)
+[![buildfox](https://img.shields.io/badge/buildfox.space-1a1a1a?style=flat-square&logo=firefox&logoColor=f59e0b)](https://buildfox.space)
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f97316&height=80&section=footer" width="100%"/>
+</div>
